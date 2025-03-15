@@ -44,7 +44,7 @@ const Footer = () => {
             <ul className="space-y-2">
               <li>
                 <Link href="/support/contact" className="text-base-regular hover:text-sky-400 transition-colors">
-                  Зв'язатися з нами
+                  Зв&apos;язатися з нами
                 </Link>
               </li>
               <li>
@@ -101,7 +101,7 @@ const Footer = () => {
               </li>
               <li>
                 <Link href="/careers" className="text-base-regular hover:text-sky-400 transition-colors">
-                  Кар'єра
+                  Кар&apos;єра
                 </Link>
               </li>
               <li>
